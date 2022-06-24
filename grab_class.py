@@ -1,7 +1,8 @@
 # made by SAYAM Palrecha 
-#  this iss the code to easily scrap out all the information or data from a website!!
+#  this is the code to easily scrap out all the information or data from a website!!
 #  Importing the library
-# 
+#
+ 
 import requests
 import bs4
 
