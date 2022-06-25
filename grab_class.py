@@ -1,4 +1,6 @@
 # made by SAYAM Palrecha 
+
+# Like and share
 #  this is the code to easily scrap out all the information or data from a website!!
 #  Importing the library
 #
