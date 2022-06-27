@@ -1,4 +1,4 @@
-# made by SAYAM Palrecha 
+# Made using Python by Sayam 
 #  this is the code to easily scrap out all the information or data from a website!!
 #  Importing the library
  
